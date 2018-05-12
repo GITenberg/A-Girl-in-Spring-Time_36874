@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9729
     wikipedia: http://en.wikipedia.org/wiki/Mrs_George_de_Horne_Vaizey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36874#A-Girl-in-Spring-Time
 gutenberg_issued: '2011-07-27'
 gutenberg_type: Text
 identifiers:
